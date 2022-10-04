@@ -1,10 +1,15 @@
 # Actions
+BACK:
 - Authentification 
 - Liste de Users
 - Édition d'un user 
 - Droits 
 - Envoyer un email à la suite d'un mot de passe perdu à l'aide d'un service exterrieur
 
+FRONT:
+- Page de login mot de passe
+- Liste des users
+- Page mot de passe perdu 
 # Tâches
 ## Back - Next JS
 
@@ -33,4 +38,5 @@ TESTS:
 
 
 ## Front - ReactJS (TS?)
+** les choix technologiques, les modes de connexion avec le serveur (protocole)**
 - 
