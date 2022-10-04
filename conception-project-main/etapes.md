@@ -1,8 +1,8 @@
 # Plan développement
 
-## Découpage
+## Découpage (WBS)
 Phases chronologiques. Pour chaque phase:
- - tâches
+ - étapes -> tâches
  - charges à prévoir
  - ressources nécessaires
 
