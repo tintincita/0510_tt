@@ -15,8 +15,14 @@ describe('AppController', () => {
   });
 
   describe('root', () => {
-    it('should return "Hello World!"', () => {
-      expect(appController.getHello()).toBe('Hello World!');
+    it('should return 401 unauthorized', () => {
+      //eq of curl http://localhost:3000/profile
+    });
+    it('should return Bearer token', () => {
+      // eq of curl -X POST http://localhost:3000/auth/login -d '{"username": "john", "password": "changeme"}' -H "Content-Type: application/json"
+    });
+    it('should return data once authenticated', () => {
+      // eq of prev two actions
     });
   });
 });
