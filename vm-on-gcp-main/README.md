@@ -14,4 +14,4 @@ L'exerice consiste à crée une VM sur GCP et y installer :
 
 ## Rendu 
 
-Ajouter un droit d'accès au projet GCP  à jerome@whatson.io. 
+Ajouter un droit d'accès au projet GCP 
