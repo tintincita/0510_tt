@@ -1,5 +1,5 @@
 import { Injectable } from '@nestjs/common';
-import { Role } from 'src/enums/role.enum';
+import { Role } from 'src/models/enums/role.enum';
 
 // This should be a real class/interface representing a user entity
 export type User = any;
